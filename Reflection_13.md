@@ -1,0 +1,5 @@
+This week was a short week due to Thanksgiving. On Tuesday, we were presented with a lecture by Fernando Perez, the creator of iPython Notebook. The lecture was incredibly interesting; we have utilized iPython Notebook as a crucial tool to create reproducible data science, and we had the privilege to hear firsthand the vision Mr. Perez had while creating this tool. Perez explained that iPython Notebook is more than a software or user interface; rather, it is an environment that allows users to mix and match different tools in the same frame. Listening to this lecture provided intriguing context to what we have been working on this semester, and it was refreshing to hear Mr. Perez's unique insights.
+
+We additionally were asked to fill out a survey regarding our previous and current groups, which will be used as a tool for grading. My team and I discussed using a survey with Aaron for grades; I think that using this approach will be extremely useful, and will remove a bit of the ambiguity that many students have expressed concern over.
+
+Hopefully, the class can carry through one more week as we edge into the final home stretch!
